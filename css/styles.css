@@ -130,6 +130,7 @@ button {
 
 .site-nav-list, .site-address-list {
     display: flex;
+    /* gap: 40px; */
 }
 
 .site-nav-list {
