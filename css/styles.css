@@ -535,6 +535,7 @@ button {
 }
 
 .portfolio-nav {
+    /* gap: 24px; */
     margin-bottom: 72px;
     justify-content: center;
 }
